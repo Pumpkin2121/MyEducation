@@ -4,9 +4,9 @@ public class User {
     private String name;
     private int age;
 
-    public User(String x, int y) {
-        this.name = x;
-        this.age = y;
+    public User(String n, int a) {
+        this.name = n;
+        this.age = a;
     }
 
     public User() {
